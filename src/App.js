@@ -10,6 +10,7 @@ class App extends Component {
         <h1>Hellowwwwwwwww Reak!</h1>
         <h2>tambah h2 nih</h2> 
         <h3> tambah h3 juga nih</h3>
+        <h4> tambah h4 test </h4>
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             EWEOOWWW <code>src/App.js</code> and save to reload.
